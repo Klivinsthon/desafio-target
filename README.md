@@ -1,0 +1,2 @@
+- Resolução dos exercícios para vaga de estágio
+- Para maior comodidade dos recrutadores, cada resolução acompanha um arquivo html mapeando a resolução no arquivo javascript
